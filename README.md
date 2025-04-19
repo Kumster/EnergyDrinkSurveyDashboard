@@ -40,6 +40,13 @@ Designed for clarity and business usability, the dashboard integrates custom DAX
 This dashboard doesn’t just present numbers — it narrates a compelling story about consumer psychology, pricing expectations, and how health awareness shifts with age. It’s ideal for brand managers, analysts, or product strategists aiming to understand their audience and tailor offerings accordingly.
 
 ---
+## 🔗 Live Dashboard Link
+
+You can view the full interactive Power BI dashboard here:  
+[🔍 View Energy Drink Survey Dashboard](https://app.powerbi.com/groups/me/reports/b2867319-7118-45eb-8e30-5f34d70ce48a/ReportSection?experience=power-bi)
+
+> Note: Best viewed on desktop in full screen for optimal interactivity.
+
 
 
 
