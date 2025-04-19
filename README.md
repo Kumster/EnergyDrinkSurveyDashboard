@@ -15,7 +15,7 @@ Designed for clarity and business usability, the dashboard integrates custom DAX
 
 Below is the semantic model powering this dashboard. It connects survey response data with city and respondent dimensions through clean relationships and a centralized star schema structure.
 
-![Data Model](https://github.com/Kumster/your-repo-name/blob/main/DataModel.png?raw=true)
+![Data Model](https://github.com/Kumster/EnergyDrinkSurveyDashboard/Dashboard)
 
 > 📌 *This model ensures clean slicing, performance optimization, and easy DAX integration.*
 
