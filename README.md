@@ -47,7 +47,7 @@ Below is the semantic model powering this dashboard. It connects survey response
 
 Here’s a snapshot of the full Power BI dashboard layout:
 
-![Dashboard Screenshot](https://github.com/Kumster/your-repo-name/blob/main/Dashboard.png?raw=true)
+![Dashboard Screenshot](https://raw.githubusercontent.com/Kumster/EnergyDrinkSurveyDashboard/main/Dashboard.png)
 
 ---
 
